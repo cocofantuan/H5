@@ -1,0 +1,23 @@
+@charset "utf-8";
+.box {
+	height: 1200px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .dbody .bottom {
+	height: 40px;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.box .dbody .middle .right {
+	float: left;
+	height: 400px;
+	width: 220px;
+	margin-top: 100px;
+}
+.box .dbody .middle .center p {
+	color: #FFF1C1;
+}
